@@ -446,8 +446,7 @@ Agora o repositório deve ser acessado pelo
 `partipantes.csv`, e edite adicionando seu nome e nome de usuário do
 `GitHub`. Salve, faça o `commit` e o `push`.
 
-Agora navegue até o [respositório da atividade
-4](https://github.com/cammcordeiro/como_git-and-hub) recém clonado e
+Agora navegue até o [respositório da atividade](https://github.com/cammcordeiro/como_git-and-hub) recém clonado e
 clique em **Contribute**.
 
 <center><img src="figs/git_23.png" style="width:60%"/> <br><br></center>
