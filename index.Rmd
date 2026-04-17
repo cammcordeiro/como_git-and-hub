@@ -1,10 +1,15 @@
 ---
 title: "Git+GitHub"
-output: html_document
 editor_options: 
   markdown: 
     wrap: 72
 ---
+
+<style>
+  body {
+    text-align: justify}
+</style>
+
 
 # Trabalhando em conjunto
 
